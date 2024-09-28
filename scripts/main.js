@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['TAP ANYWHERE :)','DO NOT FORGET','TO USE LANDSCAPE MODE'] 
+  let texts = ['TAP ANYWHERE :)',' ','DO NOT FORGET',' ','TO USE LANDSCAPE MODE',' ','HEY',' ','EURY',' ','I HAVE SOMETHING SERIOUS TO TELL YOU',' ','FIRST',' ','TAKE A DEEP BREATH',' ','ARE YOU SURE YOU ARE READY?',' ','OKAY',' ','HERE IT GOES',' ','I AM HERE',' ','TO REMIND YOU THAT',' ','YOU ARE',' ','IMPORTANT',' ','SEEN',' ','VALUED',' ','NEEDED',' ','BEAUTIFUL',' ','WONDERFUL',' ','FASCINATING',' ','SPECIAL',' ','WORTHY',' ','LOVED ♡',' ','BE GENTLE WITH YOURSELF',' ','I AM SO PROUD OF YOU',' ','I LOVE YOU',' ','KANUNAY🤍']
                
   let canvas,
     ctx,
